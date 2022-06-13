@@ -67,4 +67,4 @@ Python Django
 ## Author
 
 Aryan Agarwal
-Learned from https://www.udemy.com/user/dennis-ivanov-5/
+learned from and template by - https://www.udemy.com/user/dennis-ivanov-5/
