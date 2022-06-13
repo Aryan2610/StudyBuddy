@@ -58,7 +58,7 @@ password: admin123
 
 ### Screenshot
 
-(studybud.jpeg)
+![studybud](static/images/studybud.jpeg)
 
 ### Built with
 
